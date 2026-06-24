@@ -10,7 +10,7 @@ Este é um projeto de Ponto de Venda (PDV) desenvolvido como uma solução SaaS 
 - **DevOps:** Docker (Opcional)
 
 ## 🏗️ Arquitetura do Sistema
-[Aqui, se puder, adicione uma imagem simples que desenhou do fluxo dos dados]
+*colocarei uma breve imagem do systema*
 
 ## 📋 Funcionalidades
 - **Gestão de Produtos:** Cadastro, edição e controle de estoque.
@@ -25,7 +25,7 @@ Este é um projeto de Ponto de Venda (PDV) desenvolvido como uma solução SaaS 
 
 ### Passos
 1. Clone o repositório:
-   `git clone https://github.com/SEU_USUARIO/hokage-pdv.git`
+   `git clone https://github.com/kaioricorique-estrela/hokage-pdv.git`
 
 2. Instale as dependências do Backend:
    `cd backend && pip install -r requirements.txt`
