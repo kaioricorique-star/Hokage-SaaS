@@ -19,8 +19,9 @@ Back-end (O Cérebro): A API que processa a lógica e protege os dados (Python +
 Database (O Armazém): Onde as informações são guardadas (MongoDB ou SQLite).
 
 ## 📋 Funcionalidades
+-** Gestão de Cliente** CRUD completo para cadastrar ou deletar cliente.
 -**Gestão de Atendimento:** Funcionando para realizar venda
-- **Gestão de Logística:** CRUD, Entregadores. A entrega, contém o código para criar-se o botão de Pânico caso houver imprevisto na rota da entrega.
+- **Gestão de Logística:** CRUD completo para Entregadores, E a taxa de entrega é calculado mediante a altitude e longitude da loja/cliente.
 - **Gestão de Produtos:** Cadastro, edição e controle de estoque.
 - **Controle de Pedidos:** Registro de vendas em tempo real.
 - **Controle de estoque**
