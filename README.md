@@ -18,7 +18,7 @@ Este é um projeto de Ponto de Venda (PDV) que está sendo desenvolvido como uma
 - **Gestão de Produtos:** Cadastro, edição e controle de estoque.
 - **Controle de Pedidos:** Registro de vendas em tempo real.
 - **Controle de estoque**
-- **Blindado Multi-tenanticy** atualmente penso em usalo em B2b.
+- **Blindado Multi-tenanticy** atualmente penso em usá-lo em B2b.
 - **Interface Intuitiva:** Foco na experiência do usuário para agilizar o atendimento.
 
 ## 🛠️ Como rodar o projeto localmente
