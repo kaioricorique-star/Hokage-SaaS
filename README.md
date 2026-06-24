@@ -1,7 +1,7 @@
 
 # Hokage PDV (Sistema de Gestão SaaS)
 
-Este é um projeto de Ponto de Venda (PDV) desenvolvido como uma solução SaaS (Software as a Service), focado em performance, escalabilidade e facilidade de uso para pequenos e médios negócios.
+Este é um projeto de Ponto de Venda (PDV) que está sendo desenvolvido como uma solução SaaS (Software as a Service), focado em performance, escalabilidade e facilidade de uso para pequenos e médios negócios.
 
 ## 🚀 Tecnologias Utilizadas
 - **Backend:** Python (FastAPI)
@@ -13,8 +13,12 @@ Este é um projeto de Ponto de Venda (PDV) desenvolvido como uma solução SaaS 
 *colocarei uma breve imagem do systema*
 
 ## 📋 Funcionalidades
+-**Gestão de Atendimento:** Funcionando para realizar venda
+- **Gestão de Logística:** CRUD, Entregadores. A entrega, contém o código para criar-se o botão de Pânico caso houver imprevisto na rota da entrega.
 - **Gestão de Produtos:** Cadastro, edição e controle de estoque.
 - **Controle de Pedidos:** Registro de vendas em tempo real.
+- **Controle de estoque**
+- **Blindado Multi-tenanticy** atualmente penso em usalo em B2b.
 - **Interface Intuitiva:** Foco na experiência do usuário para agilizar o atendimento.
 
 ## 🛠️ Como rodar o projeto localmente
